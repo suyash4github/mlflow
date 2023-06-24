@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/3871a97013d64dceacf896e878d5ad14/artifacts
+end_time: 1687607458016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3871a97013d64dceacf896e878d5ad14
+run_name: chill-stoat-714
+run_uuid: 3871a97013d64dceacf896e878d5ad14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687607436450
+status: 3
+tags: []
+user_id: Suyash

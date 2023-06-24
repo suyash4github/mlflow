@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/b72998cd154d49a9b2f21ed6850ba0e4/artifacts
+end_time: 1687609329470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b72998cd154d49a9b2f21ed6850ba0e4
+run_name: honorable-goose-19
+run_uuid: b72998cd154d49a9b2f21ed6850ba0e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609315475
+status: 3
+tags: []
+user_id: Suyash

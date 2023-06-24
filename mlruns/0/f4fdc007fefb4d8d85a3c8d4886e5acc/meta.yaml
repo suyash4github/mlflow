@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/f4fdc007fefb4d8d85a3c8d4886e5acc/artifacts
+end_time: 1687609125323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4fdc007fefb4d8d85a3c8d4886e5acc
+run_name: nervous-sponge-992
+run_uuid: f4fdc007fefb4d8d85a3c8d4886e5acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609110343
+status: 3
+tags: []
+user_id: Suyash

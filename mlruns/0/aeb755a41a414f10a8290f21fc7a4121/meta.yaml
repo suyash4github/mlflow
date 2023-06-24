@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/aeb755a41a414f10a8290f21fc7a4121/artifacts
+end_time: 1687609153014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aeb755a41a414f10a8290f21fc7a4121
+run_name: monumental-mule-42
+run_uuid: aeb755a41a414f10a8290f21fc7a4121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609138013
+status: 3
+tags: []
+user_id: Suyash

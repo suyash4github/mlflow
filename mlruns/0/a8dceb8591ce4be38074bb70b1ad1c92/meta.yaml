@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/a8dceb8591ce4be38074bb70b1ad1c92/artifacts
+end_time: 1687609097854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8dceb8591ce4be38074bb70b1ad1c92
+run_name: respected-hen-687
+run_uuid: a8dceb8591ce4be38074bb70b1ad1c92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609084174
+status: 3
+tags: []
+user_id: Suyash

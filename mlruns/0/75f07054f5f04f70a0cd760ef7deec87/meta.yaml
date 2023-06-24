@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/75f07054f5f04f70a0cd760ef7deec87/artifacts
+end_time: 1687609500515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75f07054f5f04f70a0cd760ef7deec87
+run_name: languid-pig-374
+run_uuid: 75f07054f5f04f70a0cd760ef7deec87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609484784
+status: 3
+tags: []
+user_id: Suyash

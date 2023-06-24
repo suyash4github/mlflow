@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/9a1a67672861422cb0b4fa1093bc0be0/artifacts
+end_time: 1687606884452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a1a67672861422cb0b4fa1093bc0be0
+run_name: shivering-fawn-623
+run_uuid: 9a1a67672861422cb0b4fa1093bc0be0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687606880720
+status: 3
+tags: []
+user_id: Suyash

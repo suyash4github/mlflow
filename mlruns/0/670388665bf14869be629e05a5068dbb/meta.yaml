@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/670388665bf14869be629e05a5068dbb/artifacts
+end_time: 1687609443977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 670388665bf14869be629e05a5068dbb
+run_name: capricious-calf-53
+run_uuid: 670388665bf14869be629e05a5068dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609428242
+status: 3
+tags: []
+user_id: Suyash

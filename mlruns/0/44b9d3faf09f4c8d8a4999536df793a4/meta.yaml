@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/44b9d3faf09f4c8d8a4999536df793a4/artifacts
+end_time: 1687609178223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44b9d3faf09f4c8d8a4999536df793a4
+run_name: upbeat-elk-266
+run_uuid: 44b9d3faf09f4c8d8a4999536df793a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609165121
+status: 3
+tags: []
+user_id: Suyash

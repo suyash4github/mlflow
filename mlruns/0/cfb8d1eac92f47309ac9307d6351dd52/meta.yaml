@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/cfb8d1eac92f47309ac9307d6351dd52/artifacts
+end_time: 1687609040406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfb8d1eac92f47309ac9307d6351dd52
+run_name: clean-bee-314
+run_uuid: cfb8d1eac92f47309ac9307d6351dd52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609025097
+status: 3
+tags: []
+user_id: Suyash

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/ca573e84f83e4b89a74fa6b51b8c90be/artifacts
+end_time: 1687609303013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca573e84f83e4b89a74fa6b51b8c90be
+run_name: painted-bird-499
+run_uuid: ca573e84f83e4b89a74fa6b51b8c90be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609289020
+status: 3
+tags: []
+user_id: Suyash

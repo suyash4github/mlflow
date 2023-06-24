@@ -8,7 +8,7 @@ import mlflow.sklearn
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import ElasticNet
-from sklearn.metrics import mean_squared_error,mean_absolute_error,r2_score,accuracy_score
+from sklearn.metrics import mean_squared_error,mean_absolute_error,r2_score,accuracy_score,roc_auc_score
 
 import argparse
 
@@ -42,11 +42,17 @@ def main(n_estimators,max_depth):
     pred=lr.predict(X_test)
     mae,mse,rmse,r2=evaluate(y_test,pred)
     print(f'mae={mae},mse={mse},rmse={rmse},r2={r2}')'''
-    rf=RandomForestClassifier(n_estimators=n_estimators,max_depth=max_depth)
-    rf.fit(X_train,y_train)
-    pred=rf.predict(X_test)
-    acc=evaluate(y_test,pred)
-    print(acc)
+    with mlflow.start_run():
+        rf=RandomForestClassifier(n_estimators=n_estimators,max_depth=max_depth)
+        rf.fit(X_train,y_train)
+        pred=rf.predict(X_test)
+        acc=evaluate(y_test,pred)
+        mlflow.log_param('n_estimators',n_estimators)
+        mlflow.log_param('max_depth',max_depth)
+        mlflow.log_metric('accuracy',acc)
+        mlflow.sklearn.log_model(rf,'randomforest')
+
+        print(acc)
 if __name__=="__main__":
     args=argparse.ArgumentParser()
     args.add_argument("--n_estimators","-n",default=50,type=int)

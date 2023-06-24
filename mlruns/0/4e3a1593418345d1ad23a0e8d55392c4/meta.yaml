@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/4e3a1593418345d1ad23a0e8d55392c4/artifacts
+end_time: 1687609070386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e3a1593418345d1ad23a0e8d55392c4
+run_name: agreeable-ram-252
+run_uuid: 4e3a1593418345d1ad23a0e8d55392c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609054709
+status: 3
+tags: []
+user_id: Suyash

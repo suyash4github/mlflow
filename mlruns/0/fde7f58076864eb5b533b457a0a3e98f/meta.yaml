@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/fde7f58076864eb5b533b457a0a3e98f/artifacts
+end_time: 1687609472079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fde7f58076864eb5b533b457a0a3e98f
+run_name: aged-roo-843
+run_uuid: fde7f58076864eb5b533b457a0a3e98f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609456548
+status: 3
+tags: []
+user_id: Suyash

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/ffbaba43c22c4b79be9c9e14d2ae6475/artifacts
+end_time: 1687609227443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffbaba43c22c4b79be9c9e14d2ae6475
+run_name: judicious-yak-520
+run_uuid: ffbaba43c22c4b79be9c9e14d2ae6475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609215834
+status: 3
+tags: []
+user_id: Suyash
