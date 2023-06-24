@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Suyash/mlflow/mlruns/0/3dbadb8c7d2e4796a272d7a1ab7ebe4c/artifacts
+end_time: 1687089629536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3dbadb8c7d2e4796a272d7a1ab7ebe4c
+run_name: nimble-whale-428
+run_uuid: 3dbadb8c7d2e4796a272d7a1ab7ebe4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687089629275
+status: 3
+tags: []
+user_id: Suyash
